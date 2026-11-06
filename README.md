@@ -18,3 +18,13 @@
 
 **Project Notebook:** [View Task 2 Notebook](./pooja_2.ipynb)
 
+---
+
+### Task 3: Titanic Dataset – Data Cleaning
+
+- **Objective:** Clean the Titanic dataset by identifying and handling missing values, duplicate records and outliers.
+- **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab.
+- **Techniques Used:** Missing Value Handling, Median Imputation, Mode Imputation, Duplicate Detection, Outlier Analysis, Data Validation.
+- **Status:** Completed
+
+**Project Notebook:** [View Task 3 Notebook](pooja_3.ipynb)
