@@ -28,3 +28,12 @@
 - **Status:** Completed
 
 **Project Notebook:** [View Task 3 Notebook](pooja_3.ipynb)
+
+
+### Task 4: Sentiment Analysis
+
+- **Objective:** Analyze airline customer tweets and classify them into positive, negative, and neutral sentiments using machine learning algorithms.
+- **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, WordCloud, Google Colab.
+- **Status:** Completed
+
+**Project Notebook:** [View Task 4 Notebook](pooja_4.ipynb)
