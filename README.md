@@ -11,5 +11,4 @@
 
 **Status:** Completed
 
-### Project Notebook
-[View Task 1 Notebook](task1_retail_sales_EDA.ipynb)
+
