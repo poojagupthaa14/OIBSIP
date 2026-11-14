@@ -14,4 +14,4 @@
 - **Models Used:** Random Forest Classifier, SGD Classifier, Support Vector Classifier (SVC).
 - **Status:** In Progress
 
-**Project Notebook:** [View Task 2 Notebook](pooja_2.ipynb)
+**Project Notebook:** [View Task 1 Notebook](pooja_2.ipynb)
