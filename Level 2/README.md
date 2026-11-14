@@ -4,7 +4,7 @@
 - **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Colab.
 - **Status:** Completed
 
-**Project Notebook:** [View Task 2 Notebook](pooja_1.ipynb)
+**Project Notebook:** [View Task 1 Notebook](pooja_1.ipynb)
 
 
 ### Task 2: Wine Quality Prediction Using Machine Learning
@@ -14,4 +14,4 @@
 - **Models Used:** Random Forest Classifier, SGD Classifier, Support Vector Classifier (SVC).
 - **Status:** In Progress
 
-**Project Notebook:** [View Task 1 Notebook](pooja_2.ipynb)
+**Project Notebook:** [View Task 2 Notebook](pooja_2.ipynb)
